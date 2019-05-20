@@ -14,5 +14,6 @@
         - GoogleCloudSpeech
 
 	
-	In each of the four directories, "AmazonTranscribe", "DeepSpeech0.1.0", "DeepSpeech0.1.1" and "GoogleCloudSpeech", there are two files named "**recogAETexts**" and "**recogBenignTexts**". The transcriptions we obtained are put in "Transcriptions" as a reference.
-    Based on the resulting transcriptions directory, "Transcriptions", follow the "README.md" in each directory inside "Scripts" direcotyr to create transcriptions directories accordingly.
+	In each of the four directories, "AmazonTranscribe", "DeepSpeech0.1.0", "DeepSpeech0.1.1" and "GoogleCloudSpeech", there are two files named "**recogAETexts**" and "**recogBenignTexts**".
+	
+4.	The transcriptions we obtained are put in "Transcriptions" as a reference. Based on the resulting transcriptions directory, "Transcriptions", follow the "README.md" in each directory inside "Scripts" direcotory to create transcriptions directories accordingly.
