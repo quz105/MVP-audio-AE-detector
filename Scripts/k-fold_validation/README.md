@@ -3,7 +3,7 @@ Run scripts as the following order
    ```
    kfold_data_preparation.py <original transcription directory> <result directory> <dataset size> K
    
-   Note: For the original transcriptions used in experiment, please refer to the directory, "./Transcriptions"
+   Note: For the original transcriptions, please refer to the directory, "./Transcriptions"
    ```
 2. create feature vectors for each k-folded dataset
    ```
@@ -16,7 +16,7 @@ Run scripts as the following order
    ```
    kfold_binary_classifiers.py <result directory> K
    
-   Note: the validation result will be placed inside the directory, <result directory>/"k-fold_experiment_result".
+   Note: the validation result will be placed in <result directory>/"k-fold_experiment_result".
    Check "summary" in "k-fold_experiment_result" for a brief report.
    ```
 4. Structure of Transcription directory that is used in k-fold validation.
