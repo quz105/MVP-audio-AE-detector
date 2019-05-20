@@ -1,0 +1,2 @@
+givenFPR, Threshold, FPR, FNS, FNR, TPR
+0.05, 0.82, 0.0475, 4, 0.0017, 0.9983

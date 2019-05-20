@@ -1,0 +1,4 @@
+PhoneticEncodedJaroWinkler-DeepSpeech0.1.1_GoogleCloudSpeech# FNR: 0.0067, FNs: 4, TPR: 0.9933
+PhoneticEncodedJaroWinkler-DeepSpeech0.1.1_AmazonTranscribe# FNR: 0.0083, FNs: 5, TPR: 0.9917
+PhoneticEncodedJaroWinkler-GoogleCloudSpeech_AmazonTranscribe# FNR: 0.0067, FNs: 4, TPR: 0.9933
+PhoneticEncodedJaroWinkler-DeepSpeech0.1.1_GoogleCloudSpeech_AmazonTranscribe# FNR: 0.0083, FNs: 5, TPR: 0.9917

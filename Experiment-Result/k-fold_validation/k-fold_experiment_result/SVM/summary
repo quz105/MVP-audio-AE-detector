@@ -1,0 +1,7 @@
+[auxASRs:DeepSpeech0.1.1] TPs:477.6/1.9596, FNs:2.4/1.9596, TNs:478.2/0.7483, FPs:1.8/0.7483, FNR:0.005/0.0041, FPR:0.0038/0.0016, Accuracy:0.9956/0.0018
+[auxASRs:GoogleCloudSpeech] TPs:477.8/1.1662, FNs:2.2/1.1662, TNs:471.8/1.9391, FPs:8.2/1.9391, FNR:0.0046/0.0024, FPR:0.0171/0.004, Accuracy:0.9892/0.0022
+[auxASRs:AmazonTranscribe] TPs:478.4/1.0198, FNs:1.6/1.0198, TNs:478.8/1.1662, FPs:1.2/1.1662, FNR:0.0034/0.0021, FPR:0.0025/0.0024, Accuracy:0.9971/0.0014
+[auxASRs:DeepSpeech0.1.1_GoogleCloudSpeech] TPs:479.0/1.0954, FNs:1.0/1.0954, TNs:478.6/1.0198, FPs:1.4/1.0198, FNR:0.0021/0.0023, FPR:0.0029/0.0021, Accuracy:0.9975/0.0005
+[auxASRs:DeepSpeech0.1.1_AmazonTranscribe] TPs:479.0/1.0954, FNs:1.0/1.0954, TNs:479.6/0.4899, FPs:0.4/0.4899, FNR:0.0021/0.0023, FPR:0.0008/0.001, Accuracy:0.9986/0.0008
+[auxASRs:GoogleCloudSpeech_AmazonTranscribe] TPs:478.6/1.0198, FNs:1.4/1.0198, TNs:479.6/0.4899, FPs:0.4/0.4899, FNR:0.0029/0.0021, FPR:0.0008/0.001, Accuracy:0.9982/0.001
+[auxASRs:DeepSpeech0.1.1_GoogleCloudSpeech_AmazonTranscribe] TPs:479.0/1.0954, FNs:1.0/1.0954, TNs:479.8/0.4, FPs:0.2/0.4, FNR:0.0021/0.0023, FPR:0.0004/0.0008, Accuracy:0.9988/0.001

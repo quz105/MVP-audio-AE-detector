@@ -1,0 +1,6 @@
+The averaged recognition cost of DS0 over 20 audio samples is: 9.12665541
+The reported overheads (seconds / percentage) are averaged from 20 audio samples
+Recognition: 0.09942582/0.010894
+Similarity Cal: 8.02e-06/8.8e-07
+Classification: 7.706e-05/8.44e-06
+Total: 0.0995109/0.01090333
