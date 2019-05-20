@@ -4,7 +4,7 @@
 2.	Each line of transcription file has the following format:
     - **Filename\_without\_file\_extension transcription**
 
-3.	Structure of Transcription directory that will be used in experiments with single-aux-model and multiple-aux-models detection systems.
+3.	Structure of Transcription directory that is created by running the recognition scripts.
 	There are two "**Test**" and "**Train**" sub-directories inside the root directory. In each of "Test" and "Train" directories, it has the following sturcture. (Take "Test" diretory for example.)
     - RootDirectory
       - Test
@@ -14,4 +14,5 @@
         - GoogleCloudSpeech
 
 	
-	In each of the four directories, "AmazonTranscribe", "DeepSpeech0.1.0", "DeepSpeech0.1.1" and "GoogleCloudSpeech", there are two files named "**recogAETexts**" and "**recogBenignTexts**". Transcriptions used in the AAAI workshop paper and submitted DSN paper are placed in "*AAAI_Experiments/Transcriptions*" and "*DSN_Experiments/Transcriptions*" accordingly.
+	In each of the four directories, "AmazonTranscribe", "DeepSpeech0.1.0", "DeepSpeech0.1.1" and "GoogleCloudSpeech", there are two files named "**recogAETexts**" and "**recogBenignTexts**". The transcriptions we obtained are put in "Transcriptions" as a reference.
+    Based on the resulting transcriptions directory, "Transcriptions", follow the "README.md" in each directory inside "Scripts" direcotyr to create transcriptions directories accordingly.

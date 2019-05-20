@@ -27,7 +27,7 @@
    run.bash result_dir ss_fv_dir
 ```
 
-3. **Retrieve txperiment Result**
+3. **Retrieve experiment Result**
    - A.	8 detection systems will be built and tested. For each detection system, a fold named with the corresponding AEs' type will be created inside "**result_dir**", where the result of building and testing the detection system upon unused types of AEs will be recorded.
    - B.	8 AE_types
         - real AEs            :   "SME_AE_DS0"

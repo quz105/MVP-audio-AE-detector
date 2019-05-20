@@ -1,0 +1,1 @@
+Given a FPR threshold of 5%, use 2400 Benign sample to train one-aux-model systems with PE_JaroWinkler as the similarity measurement, and use 2400 AEs to test.
